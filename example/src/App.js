@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-near-openweb'
+import { Profile } from 'react-near-openweb'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <Profile accountId='eugenethedream' />
       </div>
     )
   }
