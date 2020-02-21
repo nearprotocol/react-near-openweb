@@ -4,6 +4,7 @@
   "description": "React components to interact with OpenWeb contracts on NEAR Protocol blockchain",
   "license": "MIT",
   "repository": "nearprotocol/react-near-openweb",
+  "homepage": "https://nearprotocol.github.io/react-near-openweb",
   "main": "dist-modules",
   "engines": {
     "node": ">=8",

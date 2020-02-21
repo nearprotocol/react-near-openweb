@@ -6643,10 +6643,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-near-openweb-js@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/near-openweb-js/-/near-openweb-js-0.0.2.tgz#e0a106f787ae7610fac4b644640700857ea805c2"
-  integrity sha512-Je2OWCaE1MEHkgwih4uYkTwKvnUYkS8N1mHEvVgOE3+fs2jA8VjSZBoeAP0mw8lWxhZxm5mG1FyZPs/wmmb0uA==
+near-openweb-js@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/near-openweb-js/-/near-openweb-js-0.1.0.tgz#60128d1e0a6270731af77ed4af11b12bac4483d9"
+  integrity sha512-ypDQHwh8ZfoijTng6m+ri7XjEXsIDaBH5t278bGglhGFYInW4POwSa0PRRoIAUHGGPa4DYsOPhxoxdzmUJT8kg==
   dependencies:
     nearlib "^0.21.0"
     tweetnacl "^1.0.1"
@@ -8404,13 +8404,9 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-near-openweb@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-near-openweb/-/react-near-openweb-0.0.1.tgz#9d5c20bbf3f3e17f3dcf7910fec3b8f7fb4e6e56"
-  integrity sha512-g//BcP9oUY7gN/RRXp0d1STSSrp7PyTuCwZhiFNOcefVsNx/7ywfjxRRNoQqmgYRYNywFqllJYU46BBlXfJKdw==
-  dependencies:
-    near-openweb-js "^0.0.2"
-    react-bootstrap "^1.0.0-beta.16"
+"react-near-openweb@link:..":
+  version "0.0.0"
+  uid ""
 
 react-overlays@^2.1.0:
   version "2.1.1"
