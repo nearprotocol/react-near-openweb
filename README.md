@@ -15,12 +15,12 @@ npm install --save react-near-openweb
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-near-openweb'
+import { Profile } from 'react-near-openweb'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Profile accountId="eugenethedream" />
     )
   }
 }
