@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b907f7006ff6c98dd8ba7e7c4bd79cff",
+    "revision": "c8b05f16184632e7bd56c3e5ad8bf6cd",
     "url": "/react-near-openweb/index.html"
   },
   {
-    "revision": "ad9fec328409c6904153",
+    "revision": "4076d41ad1e4bdf50ebd",
     "url": "/react-near-openweb/static/css/main.a2b7b0b6.chunk.css"
   },
   {
-    "revision": "1493a55788367eb930db",
-    "url": "/react-near-openweb/static/js/2.71555af8.chunk.js"
+    "revision": "87a9a51a75f73d30f4df",
+    "url": "/react-near-openweb/static/js/2.f6c7171e.chunk.js"
   },
   {
     "revision": "d50253769daacdd9ab353251af670f81",
-    "url": "/react-near-openweb/static/js/2.71555af8.chunk.js.LICENSE.txt"
+    "url": "/react-near-openweb/static/js/2.f6c7171e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad9fec328409c6904153",
-    "url": "/react-near-openweb/static/js/main.5d8574e5.chunk.js"
+    "revision": "4076d41ad1e4bdf50ebd",
+    "url": "/react-near-openweb/static/js/main.7d3ae30a.chunk.js"
   },
   {
     "revision": "b4e0453dbf2500c6fe7d",
