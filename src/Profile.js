@@ -68,7 +68,7 @@ class Profile extends React.Component {
   }
 
   componentDidMount() {
-    this.props.accountId && this.app.ready().then(() => this.updateProfile(this.props.accountId));
+    this.props.accountId && this.app.init().then(() => this.updateProfile(this.props.accountId));
   }
 
   async fetchProfile(accountId) {
