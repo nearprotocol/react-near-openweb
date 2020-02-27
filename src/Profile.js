@@ -122,7 +122,7 @@ class Profile extends React.Component {
 
   componentDidUpdate(prevProps) {
     if (this.props.accountId !== prevProps.accountId) {
-      this.updateProfile(this.props.accountId);
+      this.app.init().then(() => this.updateProfile(this.props.accountId));
     }
   }
 
