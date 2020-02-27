@@ -1,6 +1,6 @@
 {
   "name": "react-near-openweb",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React components to interact with OpenWeb contracts on NEAR Protocol blockchain",
   "license": "MIT",
   "repository": "nearprotocol/react-near-openweb",
