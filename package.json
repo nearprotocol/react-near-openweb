@@ -1,10 +1,10 @@
 {
   "name": "react-near-openweb",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "React components to interact with OpenWeb contracts on NEAR Protocol blockchain",
   "license": "MIT",
-  "repository": "nearprotocol/react-near-openweb",
-  "homepage": "https://nearprotocol.github.io/react-near-openweb",
+  "repository": "metanear/react-components",
+  "homepage": "https://metanear.github.io/react-components",
   "main": "dist-modules",
   "engines": {
     "node": ">=8",
@@ -15,7 +15,7 @@
     "prepare": "yarn dist"
   },
   "dependencies": {
-    "near-openweb-js": "^0.1.0",
+    "near-openweb-js": "^0.2.1",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
