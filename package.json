@@ -1,6 +1,6 @@
 {
-  "name": "react-near-openweb",
-  "version": "0.1.5",
+  "name": "metanear-react-components",
+  "version": "0.2.0",
   "description": "React components to interact with Meta NEAR contracts on NEAR Protocol blockchain",
   "license": "MIT",
   "repository": "metanear/react-components",
@@ -15,7 +15,7 @@
     "prepare": "yarn dist"
   },
   "dependencies": {
-    "near-openweb-js": "^0.2.1",
+    "metanear-sdk-js": "^0.3.1",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {

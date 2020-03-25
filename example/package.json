@@ -1,5 +1,5 @@
 {
-  "name": "react-near-openweb-example",
+  "name": "metanear-react-components-example",
   "homepage": "https://metanear.github.io/react-components",
   "version": "0.0.0",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-near-openweb": "link:..",
+    "metanear-react-components": "link:..",
     "react-scripts": "^3.3.4"
   },
   "scripts": {

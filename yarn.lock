@@ -2216,6 +2216,14 @@ merge-stream@^2.0.0:
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-2.0.0.tgz#52823629a14dd00c9770fb6ad47dc6310f2c1f60"
   integrity sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==
 
+metanear-sdk-js@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/metanear-sdk-js/-/metanear-sdk-js-0.3.1.tgz#889a0bb3aa7e12bc384636d8db46ec797dcd2b8f"
+  integrity sha512-lRP2E7uIADM1I9PwMxFwod6teFF8l9T/iWN6VWR16aZ+3mYgAJTzHy44A71DLo/uiKJvLZfjcWDo/AS4wBfAdA==
+  dependencies:
+    nearlib "^0.22.0"
+    tweetnacl "^1.0.1"
+
 micromatch@^2.1.5:
   version "2.3.11"
   resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-2.3.11.tgz#86677c97d1720b363431d04d0d15293bd38c1565"
@@ -2322,14 +2330,6 @@ nanomatch@^1.2.9:
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
-
-near-openweb-js@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/near-openweb-js/-/near-openweb-js-0.2.1.tgz#fb7a6d9643dcfffec250b95523624b1cde893f74"
-  integrity sha512-MtUKiuSMI/QYMV9ebDBE4vbiKnupo5L8Hj64eXQELO8CTMF7Si30WzoR7fpTDhX6Xf0M5EZxN7Waq6D3xpqJZg==
-  dependencies:
-    nearlib "^0.22.0"
-    tweetnacl "^1.0.1"
 
 nearlib@^0.22.0:
   version "0.22.0"

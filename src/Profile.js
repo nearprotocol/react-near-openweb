@@ -1,5 +1,5 @@
 import React from 'react'
-import { OpenWebApp } from 'near-openweb-js'
+import { MetaNearApp } from 'metanear-sdk-js'
 import PropTypes from 'prop-types'
 
 const propTypes = {
@@ -58,7 +58,7 @@ class Profile extends React.Component {
     if (!window.profileComponentCache) {
       window.profileComponentCache = {
         profileCache: {},
-        app: new OpenWebApp(profileAppId, null, nearConfig),
+        app: new MetaNearApp(profileAppId, null, nearConfig),
       };
       window.profileComponentCache.app.init();
     }
